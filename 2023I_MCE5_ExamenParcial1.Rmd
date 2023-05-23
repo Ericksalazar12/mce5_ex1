@@ -1,6 +1,6 @@
 ---
 title: "Examen parcial 1 - Métodos Cuantitativos en Ecología"
-author: 'Erick Michael Salazar Coquinche'
+author: 'Erick  Salazar '
 date: "23 de mayo de 2023"
 output: 
   html_document:
@@ -50,8 +50,7 @@ En el estudio realizado por <a href="https://doi.org/10.1111/jvs.13185">Sanches 
 
 ## Para su potencial investigación ¿Cuál sería su hipótesis ? (Explique)
 
-**Respuesta:**
-
+**Respuesta: Hipotesis : " La facilitación interespecífica en etapas juveniles y maduras de las especies raras de plantas en  zonas del Ecuador promueve la coexistencia y la diversidad local al evitar la extinción de especies raras y reducir las diferencias de rendimiento entre vecinos de diferentes especies."   Explicacion de la hipotesis :  La interacción positiva entre distintas especies de plantas, puede ser un factor clave en la promoción y mantenimiento de la diversidad de especies en zonas del ecuador. También esta facilitación puede ser importante en etapas juveniles de las especies, ya que al proporcionar beneficios a las especies raras y evitar sus extinción local ya sea por la tala de arboles raros que se dan en las diferentes zonas de Ecuador, se espera que la facilitación reduzca las  diferencias de rendimiento entre vecinos de diferentes especies en etapas maduras , lo que contribuye ala coexistencia de múltiples especies raras en la comunidad . **
 
 ## Muestra
 
